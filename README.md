@@ -1,6 +1,6 @@
 Montgomery Chaudoir's Coding One Coursework and Homework    
         
-CourseWork_TwoPlayerGame2
+twoplayergame4.py
 This is my two player game. 
 
 Game Description:
@@ -26,9 +26,10 @@ Player2(Blue) controls are:
 Homeworks:
 All the homeworks have the week they were set, followed by the name of the homework
 
+
 Git Repositories:
 
-coding_one_ 
+coding_one_submission
 contains the game and homeworks
 
 snake2
