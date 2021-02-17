@@ -31,6 +31,8 @@ Git Repositories:
 
 coding_one_submission
 contains the game and homeworks
+https://github.com/monty123456789/coding_one_submission
 
 snake2
 contains past commits of the two player game, this is where you can see the progress of the game. 
+https://github.com/monty123456789/snake2
